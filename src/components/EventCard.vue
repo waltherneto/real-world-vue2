@@ -14,13 +14,13 @@ export default {
       return {
           event: {
             id: 1,
-            title: 'Beach Cleanup',
+            title: 'Teste de Deploy',
             date: 'Apr 05, 2021',
             time: '10:00',
             attendees: [
               { id: 'abc123', name: 'Walther Neto' },
               { id: 'def456', name: 'Danielle Brasil' },
-              { id: 'ghi789', name: 'Gregg Pollack' }
+              { id: 'ghi789', name: 'Diego Melo' }
             ]
           }
       }
